@@ -33,7 +33,7 @@
 
 **When I'd use it:** Pick based on how critical the files are and what failure they need to survive.
 
-**What confused me:** Nothing yet. To do: check the list against Microsoft Learn.
+**What confused me:** Nothing yet.
 
 ## Storage: SAS links
 **What it is:** A signed URL that gives limited, time-limited access to storage without signing in.
